@@ -20,8 +20,8 @@ Aside from Comp Sci, AI and probabilities I'm quite a fan of astronomy and chemi
 ---
 ### Other  Skills / Resources:
 <h3>Other Skills</h3>
-<img align="left" alt="German" src="https://img.shields.io/badge/German-B1-blue?style=for-the-badge" />
+<img align="left" alt="German" src="https://img.shields.io/badge/German-C2-blue?style=for-the-badge" />
 <img align="left" alt="Spanish" src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" />
-<img align="left" alt="English" src="https://img.shields.io/badge/English-C1-green?style=for-the-badge" />
+<img align="left" alt="English" src="https://img.shields.io/badge/English-B2-green?style=for-the-badge" />
 
 <br /><br />
