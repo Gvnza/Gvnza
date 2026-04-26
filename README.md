@@ -9,7 +9,6 @@ Aside from Comp Sci, AI and probabilities I'm quite a fan of astronomy and chemi
 ### Tools:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="SciPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" />
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
@@ -17,7 +16,6 @@ Aside from Comp Sci, AI and probabilities I'm quite a fan of astronomy and chemi
 <img align="left" alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
 <br />
 
----
 ### Other  Skills / Resources:
 <h3>Other Skills</h3>
 <img align="left" alt="German" src="https://img.shields.io/badge/German-C2-blue?style=for-the-badge" />
