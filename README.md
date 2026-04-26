@@ -1,16 +1,27 @@
-## Hi there 👋
+## Gonzalo
 
-<!--
-**Gvnza/Gvnza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**'Student'**
 
-Here are some ideas to get you started:
+I'm an AI engineering student. Started in March 2024. I enjoy coding and solving problems. 
+Aside from Comp Sci, AI and probabilities I'm quite a fan of astronomy and chemistry!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Tools:
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="NumPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+<img align="left" alt="SciPy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+<img align="left" alt="LangChain" src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge" />
+<img align="left" alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge" />
+<br />
+
+---
+### Other  Skills / Resources:
+<h3>Other Skills</h3>
+<img align="left" alt="German" src="https://img.shields.io/badge/German-B1-blue?style=for-the-badge" />
+<img align="left" alt="Spanish" src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" />
+<img align="left" alt="English" src="https://img.shields.io/badge/English-C1-green?style=for-the-badge" />
+
+<br /><br />
