@@ -4,6 +4,7 @@
 
 I'm an AI engineering student. Started in March 2024. I enjoy coding and solving problems. 
 Aside from Comp Sci, AI and probabilities I'm quite a fan of astronomy and chemistry!
+
 ---
 ### Tools:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
