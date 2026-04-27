@@ -1,6 +1,6 @@
 ## Gonzalo
 
-**'Student'**
+**Student**
 
 I'm an AI engineering student. Started in March 2024. I enjoy coding and solving problems. 
 Aside from Comp Sci, AI and probabilities I'm quite a fan of astronomy and chemistry!
@@ -20,5 +20,4 @@ Aside from Comp Sci, AI and probabilities I'm quite a fan of astronomy and chemi
 <img align="left" alt="German" src="https://img.shields.io/badge/German-C2-blue?style=for-the-badge" />
 <img align="left" alt="Spanish" src="https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge" />
 <img align="left" alt="English" src="https://img.shields.io/badge/English-B2-green?style=for-the-badge" />
-
 <br /><br />
